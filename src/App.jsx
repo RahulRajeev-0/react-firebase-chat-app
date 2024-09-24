@@ -6,6 +6,7 @@ import Home from './Pages/Home'
 import { Routes, Route } from 'react-router-dom'
 import Auth from './Pages/Auth'
 
+
 function App() {
   const [count, setCount] = useState(0)
 
